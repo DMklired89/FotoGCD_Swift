@@ -12,6 +12,7 @@
 		04AEE57F2274088300917A14 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04AEE57D2274088300917A14 /* Main.storyboard */; };
 		04AEE5812274088700917A14 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04AEE5802274088700917A14 /* Assets.xcassets */; };
 		04AEE5842274088700917A14 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04AEE5822274088700917A14 /* LaunchScreen.storyboard */; };
+		04AEE5CA2278311B00917A14 /* ImageService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AEE5C92278311B00917A14 /* ImageService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		04AEE5802274088700917A14 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04AEE5832274088700917A14 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04AEE5852274088700917A14 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04AEE5C92278311B00917A14 /* ImageService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				04AEE5792274088300917A14 /* AppDelegate.swift */,
 				04AEE57B2274088300917A14 /* ViewController.swift */,
+				04AEE5C92278311B00917A14 /* ImageService.swift */,
 				04AEE57D2274088300917A14 /* Main.storyboard */,
 				04AEE5802274088700917A14 /* Assets.xcassets */,
 				04AEE5822274088700917A14 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				04AEE57C2274088300917A14 /* ViewController.swift in Sources */,
 				04AEE57A2274088300917A14 /* AppDelegate.swift in Sources */,
+				04AEE5CA2278311B00917A14 /* ImageService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
