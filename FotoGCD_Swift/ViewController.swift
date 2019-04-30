@@ -56,7 +56,6 @@ class ViewController: UITableViewController {
     private var urlsArray: [URL] = []
 
     override func viewDidLoad() {
-       
         super.viewDidLoad()
         
         for url in self.urlsOfStr {
